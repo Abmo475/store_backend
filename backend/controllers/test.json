@@ -1,0 +1,25 @@
+{
+	"Dimensions":[
+	"Weight  < 5 kg (11 lb)"
+	],
+	"Circuit types":[
+	"Active with PAP; passive"
+	]
+    ,
+	"Ventilation types":[
+	"Pressure and Volume(Assist control (AC)",
+	"Synchronized intermittent mandatory ventilation (SIMV)",
+	"SIMV with pressure support (SIMV w/PS) Control ventilation (CV) )"
+	],
+	"Volume modes":["AC","SIMV (w/PS)","CV","AC-MPV"],
+	"Pressure":[
+	"Pressure modes CPAP; S; S/T; T; PC-SIMV (w/PS);PC-MVP; AVAPS-AE",	
+    "Pressure  4 to 50 cm H2O",	
+    "IPAP   4 to 50 cm H2O",	
+	"PEEP/EPAP for active circuits  0 to 25cm H2O",	
+	"PEEP/EPAP for passive circuits  4 to 25cm H2O",	
+	"PAP for passive circuits 4 to 20cm H2O",
+	"PEEP for active circuits 0 to 25cm H2O",	
+	"PEEP for passive circuits  4 to 20cm H2O",	
+	"Pressure support differential 0 to 40cm H2O"]
+}
